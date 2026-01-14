@@ -1,24 +1,27 @@
-# 🛒 Kasir Lamongan Mas Yudi
+# Kasir Lamongan Mas Yudi
 
-Sistem Informasi Point of Sale (POS) berbasis web yang dirancang untuk mempermudah manajemen transaksi, stok menu, dan laporan keuangan pada usaha kuliner (Warung Lamongan).
+Sistem Point of Sale (POS) berbasis web untuk manajemen warung makan. Aplikasi ini dirancang untuk memproses transaksi dengan cepat, memantau stok menu secara real-time, dan mencatat total pendapatan harian.
 
-## 🌟 Fitur Utama
+## Fitur Utama
 
-- **Sistem Kasir (POS):** Antarmuka pemilihan menu yang responsif dengan fitur *auto-calculate* total belanja.
-- **Manajemen Transaksi:** Proses pembayaran dengan input uang tunai dan perhitungan kembalian secara otomatis.
-- **Cetak Struk:** Menghasilkan bukti pembayaran dalam format PDF.
-- **Manajemen Produk (Stok):** Kelola data menu (nama, harga, foto) dan pantau sisa stok secara real-time.
-- **Laporan Penjualan:** Rekapitulasi omzet harian dan riwayat transaksi mendetail untuk analisis bisnis.
-- **Manajemen Pengguna:** Pengaturan akun admin/kasir untuk keamanan akses sistem.
+- **Halaman Kasir:** Antarmuka pemilihan menu yang intuitif, ringkasan pesanan otomatis, dan fitur hitung kembalian tunai.
+- **Manajemen Menu:** Pengelolaan data makanan dan minuman, termasuk pengaturan harga, upload foto, dan monitoring sisa stok.
+- **Laporan Penjualan:** Rekapitulasi omzet harian dan tabel riwayat transaksi untuk melihat detail penjualan yang sudah lewat.
+- **Manajemen Akun:** Pengaturan akun pengguna (admin/kasir) untuk keamanan akses sistem.
 
-## 🚀 Teknologi yang Digunakan
+## Stack Teknologi
 
-| Komponen | Teknologi |
+| Bagian | Teknologi |
 | :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript (Bootstrap/Tailwind-based UI) |
-| **Backend** | PHP / Node.js |
+| **Frontend** | HTML, CSS, JavaScript |
+| **Backend** | PHP |
 | **Database** | MySQL |
 
-1. **Dashboard Kasir:** Pemilihan menu dan ringkasan pesanan.
-2. **Kelola Menu:** Form tambah dan edit menu beserta stok.
-3. **Laporan:** Grafik atau tabel omzet harian.
+## Informasi Login
+
+Akses default untuk masuk ke sistem:
+- **Username:** admin
+- **Password:** admin123
+
+---
+© 2026 Yuracode
